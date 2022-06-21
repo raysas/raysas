@@ -1,6 +1,6 @@
 ### Hello World!
 
-I'm *Rayane Adam*, a **bioinformatics** sophomore in the Lebanese American University. 
+I'm [*Rayane Adam*](https://www.linkedin.com/in/rayane-adam-a3ba9a224/), a **bioinformatics** sophomore in the Lebanese American University. 
 
 #### I'm a bit new here to github world! 👉👈
 
