@@ -7,9 +7,9 @@ I'm [*Rayane Adam*](https://www.linkedin.com/in/rayane-adam-a3ba9a224/), a **bio
 During the past year, I was introduced to the computer science world.
 
 
-I'm currently working more on data analytics using python and R, mostly in the ✨*bioinformatics*✨ field, including projects in drug discovery.
+Currently working more on data analytics using python and R, mostly in the ✨*bioinformatics*✨ field, including projects in drug discovery.
 
-I'm intrested in computational biology and neuroscience, even though I have limited knowledge, but I hope I get to dig in more in it soon🌱
+Intrested in computational biology and neuroscience, even though I have limited knowledge, but I hope I get to dig in more in it soon🌱
 
 #### Relevant work-skills
 
