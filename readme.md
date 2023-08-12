@@ -31,12 +31,12 @@
 ## <img src="assets/bioinformatics.png" width=30 height=30> Bioinformatics Tools and Databases
 
 <div><p align='center'>
-    <img src="assets/pymol-1.svg" width=55 height=55>
-    <img src="assets/Cytoscape_logo.png" width=55 height=55>
+    <a href="https://pymol.org"><img src="assets/pymol-1.svg" width=55 height=55></a>
+    <a href="https://cytoskape.org"><img src="assets/Cytoscape_logo.png" width=55 height=55></a>
     <a href="https://biopython.org/docs/1.75/api/index.html#"><img src="assets/biopython_logo_white.png" width=75 height=55></a>
     <a href="https://nipy.org/nibabel/"><img src="assets/nibabel-logo.svg" width=55 height=55></a>
     <a href="https://itol.embl.de/"><img src="assets/itol.png" width=55 height=65> </a> 
-    <a href="PDB-logo-white"><img src="assets/PDB-logo-white.png" width=120 height=65></a>
+    <a href="https://www.rcsb.org/"><img src="assets/PDB-logo-white.png" width=120 height=65></a>
 </div>
 
 
@@ -44,7 +44,7 @@
 
 <div>
     <p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin-icon-2.svg" alt="Your Image" width="55" height="55"></a>
-    <a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
+    <a href="https://mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
     <a href=""><img src="assets/reddit-4.svg" alt="Your Image" width="55" height="55"></a>
     <a href="https://www.instagram.com/rayanewithane/"><img src="assets/instagram-2016-5.svg" wifth=55 height=55></a>
 </div>
