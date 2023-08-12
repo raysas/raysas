@@ -4,8 +4,8 @@
 
 ## ✨ About Me
 
- <img src="assets/coding.png" height=20 width=20> Currently learning **machine learning** and deep **learning**
-<img src="assets/bioinformatics_2.png" width=20 height=20> Intrested in applying __machine learning to solve biological problems__
+<img src="assets/coding.png" height=20 width=20> Currently learning **machine learning** and deep **learning**  
+<img src="assets/bioinformatics_2.png" width=20 height=20> Intrested in applying __machine learning to solve biological problems__  
 <img src="assets/books.png" width=20 height=20> Solid background in _computer science, biology, math and chemistry_
 
 ## <img src="assets/programming.png" wifth=30 height=30> Languages and Tools
@@ -37,11 +37,13 @@
 </div>
 
 
-## <a href="rayane.s.adam@gmail.com"><img src="assets/official-gmail-icon-2020-.svg" width="30" length="30"></a>  Contact Me
+## <a href="mailto:rayane.s.adam@gmail.com"><img src="assets/official-gmail-icon-2020-.svg" width="30" length="30"></a>  Contact Me
 
 <div>
-<p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin.svg" alt="Your Image" width="55" height="55"></a>
-<a href=""><img src="assets/square-reddit.svg" alt="Your Image" width="55" height="55"></a>
+<p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin-icon-2.svg" alt="Your Image" width="55" height="55"></a>
+<a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
+<a href=""><img src="assets/reddit-4.svg" alt="Your Image" width="55" height="55"></a>
+<a href="https://www.instagram.com/rayanewithane/"><img src="assets/instagram-2016-5.svg" wifth=55 height=55></a>
 </div>
 
 Feel free to reach out. Let's connect and explore the fascinating world of bioinformatics, machine learning, and more!
