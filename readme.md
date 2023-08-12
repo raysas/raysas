@@ -1,4 +1,4 @@
-# Hi there, I'm Rayane Adam 👋
+# <p align="center"> System.out.println("Hi there, I'm Rayane Adam") //👋
 
 🎓 I'm a senior undergraduate student majoring in Bioinformatics at [Lebanese American University](https://www.lau.edu.lb/).
 
