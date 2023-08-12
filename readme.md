@@ -42,6 +42,8 @@
 
 ## <a href="mailto:rayane.s.adam@gmail.com"><img src="assets/official-gmail-icon-2020-.svg" width="30" length="30"></a>  Contact Me
 
+Feel free to reach out. Let's connect and explore the fascinating world of bioinformatics, machine learning, and more!
+
 <div>
     <p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin-icon-2.svg" alt="Your Image" width="55" height="55"></a>
     <a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
@@ -49,11 +51,7 @@
     <a href="https://www.instagram.com/rayanewithane/"><img src="assets/instagram-2016-5.svg" wifth=55 height=55></a>
 </div>
 
-Feel free to reach out. Let's connect and explore the fascinating world of bioinformatics, machine learning, and more!
-
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=raysas&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"> 
     
 </p>
-<p align="center"> let's hope it's a tentative profile
-
