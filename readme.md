@@ -33,10 +33,12 @@
 <div><p align='center'>
     <a href="https://pymol.org"><img src="assets/pymol-1.svg" width=55 height=55></a>
     <a href="https://cytoskape.org"><img src="assets/Cytoscape_logo.png" width=55 height=55></a>
+    <a href="https://itol.embl.de/"><img src="assets/itol.png" width=55 height=65> </a>
     <a href="https://biopython.org/docs/1.75/api/index.html#"><img src="assets/biopython_logo_white.png" width=75 height=55></a>
     <a href="https://nipy.org/nibabel/"><img src="assets/nibabel-logo.svg" width=55 height=55></a>
-    <a href="https://itol.embl.de/"><img src="assets/itol.png" width=55 height=65> </a> 
     <a href="https://www.rcsb.org/"><img src="assets/PDB-logo-white.png" width=120 height=65></a>
+    <a href="https://uniprot.org"><img src="assets/UniProt_(logo).png" wifth=65 height=65></a>
+    <a href="https://www.ncbi.nlm.nih.gov/"><img src="assets/ncbi-logo.png" width=120 height=65></a>
 </div>
 
 
