@@ -5,7 +5,7 @@
 ## ✨ About Me
 
 <img src="assets/coding.png" height=20 width=20> Currently learning **deep learning**  
-<img src="assets/bioinformatics_2.png" width=20 height=20> Intrested in applying __machine learning to solve biological problems__  
+<img src="assets/bioinformatics_2.png" width=20 height=20> Intrested in applying __algorithms to solve biological problems__  
 <img src="assets/books.png" width=20 height=20> Aquired a solid background in _computer science, biology, math and chemistry_
 
 ## <img src="assets/programming.png" wifth=30 height=30> Languages and Tools
