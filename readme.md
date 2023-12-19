@@ -5,9 +5,9 @@
 ## <img src="assets/sparkle.png" width=30 height=30>  About Me
 
 <!-- <img src="assets/coding.png" height=20 width=20>  **deep learning** -->
-<img src="assets/network.png" height=20 width=20> Currently learning **Network Science** and **Data Science**
-<img src="assets/coding.png" width=20 height=20> Intrested in applying __algorithms to solve biological problems__  
-<img src="assets/microarray.png" height=20 width=20> Eager to learn more about **gene expression analysis** and delve deeper into transcriptomics in bioinformatics
+<img src="assets/network.png" height=20 width=20> Currently learning **Network Science** and **Data Science**  
+<img src="assets/coding.png" width=20 height=20> Intrested in applying __algorithms to solve biological problems__   
+<img src="assets/microarray.png" height=20 width=20> Eager to learn more about **gene expression analysis** and delve deeper into transcriptomics in bioinformatics  
 <img src="assets/books.png" width=20 height=20> Aquired a good background in _computer science, biology and math_ courses
 
 ## <img src="assets/programming.png" width=30 height=30> Languages and Tools
