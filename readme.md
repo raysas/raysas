@@ -1,8 +1,8 @@
 # <p align="center"> System.out.println("Hi there!") // : )
 
-🎓 I'm a senior undergraduate student majoring in Bioinformatics at [Lebanese American University](https://www.lau.edu.lb/).
+🎓 I'm a senior undergraduate student majoring in Bioinformatics at [Lebanese American University](https://www.lau.edu.lb/). 
 
-## <img src="assets/sparkle.png" width=30 height=30>  About Me
+## <img src="assets/net.png" width=30 height=30>  About Me
 
 <!-- <img src="assets/coding.png" height=20 width=20>  **deep learning** -->
 <img src="assets/network.png" height=20 width=20> Currently learning **Network Science** and **Data Science**  
@@ -58,7 +58,7 @@
 Feel free to reach out!
 
 <div>
-    <p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin-icon-2.svg" alt="Your Image" width="55" height="55"></a>
+    <p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin_2.png" alt="Your Image" width="55" height="55"></a>
     <a href="https://www.instagram.com/rayanewithane/"><img src="assets/instagram-2016-5.svg" width=55 height=55></a>    
     <a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
 </div>
