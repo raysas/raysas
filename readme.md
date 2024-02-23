@@ -1,71 +1,61 @@
 # <p align="center"> System.out.println("Hi there!") // : )
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raysas.raysas&left_color=green&right_color=red)
+
+## <img src="assets/sparkle.png" width=30 height=30>  About Me
+
 🎓 I'm a senior undergraduate student majoring in Bioinformatics at [Lebanese American University](https://www.lau.edu.lb/). 
 
-## <img src="assets/net.png" width=30 height=30>  About Me
-
-<!-- <img src="assets/coding.png" height=20 width=20>  **deep learning** -->
-<img src="assets/network.png" height=20 width=20> Currently learning **Network Science** and **Data Science**  
-<img src="assets/coding.png" width=20 height=20> Intrested in applying __algorithms to solve biological problems__   
-<img src="assets/microarray.png" height=20 width=20> Eager to learn more about **gene expression analysis** and delve deeper into transcriptomics in bioinformatics  
-<img src="assets/books.png" width=20 height=20> Aquired a good background in _computer science, biology and math_ courses
 
 ## <img src="assets/programming.png" width=30 height=30> Languages and Tools
 
-<div><p align='center'>
-    <img src="assets/python-5.svg" alt="Python" width="55" height="55">
-    <img src="assets/R.png" width=55 height=55>
-    <img src="assets/bash-2.svg" alt="Bash" width="55" height="55">
-    <img src="assets/java-4.svg" alt="Java" width="65" height="65">
-    <img src="/assets/mysql-logo.svg" width="65" height="65">
-    <img src="/assets/postgresql.svg" width="55" height="55">
-    <img src="assets/markdown.svg" width=55 height=55>
-    <img src="assets/html-1.svg" width=55 height=55>
-    <img src="assets/css-3.svg" width="55" height="55">
-    <img src="assets/eclipse-11.svg" width=55 height=55>
-    <img src="assets/Jupyter_logo.png" width=55 height=55>
-    <img src="assets/github-icon-1.svg" width=55 height=55>
-    <img src="assets/git-icon.png" width=55 height=55>
-    <img src="assets/visual-studio-code-1.svg" width=55 height=55>
-    <img src="assets/tableau-software.svg" width=55 height=55>
-    <img src="assets/tensorflow-2.svg" width=55 height=55>
-    <img src="assets/numpy-1.svg" width=55 height=55>
-    <img src="assets/pandas_white.svg" width=55 height=55>
-    <img src="assets/networkx.png" width=55 height=55>
-    <a href="https://gephi.github.io/"><img src="assets/gephi-logo.svg" width=55 height=55></a>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,bash,java,html,css,markdown,latex" />
+</p>
+<p align='center'>
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode,anaconda,docker" />
+</p>
+<!-- figma, matlab -->
 
-## <img src="assets/bioinformatics.png" width=30 height=30> Bioinformatics Tools and Softwares
+## <img src="assets/bioinformatics.png" width=30 height=30> Packages and Softwares
 
 <div><p align='center'>
-    <a href="https://biopython.org/docs/1.75/api/index.html#"><img src="assets/biopython_logo_white.png" width=75 height=55></a>
-    <a href="https://nipy.org/nibabel/"><img src="assets/nibabel-logo.svg" width=55 height=55></a>
-    <a href="https://www.bioconductor.org/"><img src="assets/Bioconductor.png" width=50 height=55></a>
-    <a href="https://www.gsea-msigdb.org/"> <img src="assets/gsea.png" width=65 height=55></a><a href="https://itol.embl.de/"><img src="assets/itol.png" width=55 height=65> </a>
-    <img src="assets/jalview.png" width=55 height =55>
-    <a href="https://pymol.org"><img src="assets/pymol-1.svg" width=55 height=55></a>
-    <a href="https://cytoskape.org"><img src="assets/Cytoscape_logo.png" width=55 height=55></a>
-    <!-- <a href="https://www.rcsb.org/"><img src="assets/PDB-logo-white.png" width=120 height=65></a> -->
-    <!--
-    <a href="https://uniprot.org"><img src="assets/UniProt_(logo).png" wifth=65 height=65></a>
-    <a href="https://www.ncbi.nlm.nih.gov/"><img src="assets/ncbi-logo.png" width=120 height=65></a>
-    -->
+    <img src="assets/tensorflow.svg" width=130 >
+    <img src="assets/matplotlib.svg" width=100>
+    <img src="assets/numpy.png" width=70>
+    <img src="assets/networkx.svg" width=140>
+    <!-- <img src="assets/hex-tidyverse.png" width=30> -->
+    </p>
+    <p align='center'>
+    <img src="assets/biopython.png" width=60>
+    <img src="assets/nibabel-logo.svg" width=40>
+    <img src="assets/pymol.png" width=40>
+    <img src="assets/cytoscape.svg" width=40>
+    <img src="assets/gephi.png" width=40>
+    <img src="assets/tableau.png" width=100>
+    </p>
+    <p align='center'>
+
+    
 </div>
 
 
-## <a href="mailto:rayane.s.adam@gmail.com"><img src="assets/official-gmail-icon-2020-.svg" width="30" length="30"></a>  Contact Me
 
-Feel free to reach out!
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=raysas&theme=rising-sun" alt="GitHub Streak"> 
+</p>
 
-<div>
-    <p align='center'><a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/"><img src="assets/linkedin_2.png" alt="Your Image" width="55" height="55"></a>
-    <a href="https://www.instagram.com/rayanewithane/"><img src="assets/instagram-2016-5.svg" width=55 height=55></a>    
-    <a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
-</div>
 
-<!-- <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raysas&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"> 
-</p> -->
+<p align='left'>
+    <i>Reach out and connect with me on:</i>
+</p>
+<p align='center'>    
+    <a href="https://www.instagram.com/rayanewithane/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raysas.raysas&left_color=green&right_color=red)
 
