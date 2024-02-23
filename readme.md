@@ -63,6 +63,9 @@ Feel free to reach out!
     <a href="mailto:rayane.adam@lau.edu"><img src="assets/outlook-1.svg" width=55 height=55></a>
 </div>
 
-<p align="center">
+<!-- <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=raysas&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"> 
-</p>
+</p> -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raysas.raysas&left_color=green&right_color=red)
+
