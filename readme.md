@@ -31,12 +31,12 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 ## <img src="images/programming.png" width=30 height=30> Skills 
 
 ### Languages & tools
-<p align="center">
+<!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=python,r,bash,java,html,css,markdown,latex" />
 </p>
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode,anaconda" />
-</p>
+</p> -->
 <!-- figma, matlab, docker -->
 
 <div>
@@ -50,11 +50,20 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
         <img src='images/latex.svg' width=50>
     </p>
     <p align='center'>
+        <img src='images/jupyter.png' width=40>
+        <img src='./images/mysql.png' width=70>
+        <img src='./images/postgresql.png' width=40>
+        <img src='images/eclipse.svg' width=40>
+        <img src='images/git.png' width=40>
+        <img src='images/github.png' width=40>
+        <img src='images/vscode.webp' width=40>
+    </p>
+    <p align='center'>
         <img src='./images/windows.png' width=35>
         <img src='./images/linux.png' width=35>
         <img src='images/ubuntu.png' width=40>
-        <img src='images/git.png' width=40>
-        <img src='images/github.png' width=40>
+        <img src='images/conda.png' width=40>
+        <img src='images/docker.png' width=40>
     </p>
 <!-- bioconductor packages -->
 </div>
