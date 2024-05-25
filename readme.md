@@ -33,67 +33,66 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
     <tr>
         <td><i>languages</i></td>
         <td>
-            <img src="images/python.png" width=40>
-            <img src='images/R.png' width=50>
-            <img src='images/bash.webp' width=40>
-            <img src='images/java.png' width=40>
-            <img src="https://skillicons.dev/icons?i=html,css" />
-            <img src='images/markdown.webp' width=50>
-            <img src='images/latex.svg' width=50>
+            <a href="https://www.python.org/" target="_blank"><img src="images/python.png" width=40></a>
+            <a href="https://www.r-project.org/" target="_blank"><img src='images/R.png' width=50></a>
+            <a href="https://www.gnu.org/software/bash/" target="_blank"><img src='images/bash.webp' width=40></a>
+            <a href="https://www.java.com/" target="_blank"><img src='images/java.png' width=40></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+            <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src='images/markdown.webp' width=50></a>
+            <a href="https://www.latex-project.org/" target="_blank"><img src='images/latex.svg' width=50></a>
         </td>
     </tr>
     <tr>
         <td><i>tools</i></td>
         <td>
-            <img src='images/jupyter.png' width=40>
-            <img src='./images/mysql.png' width=70>
-            <img src='./images/postgresql.png' width=40>
-            <img src='images/eclipse.svg' width=40>
-            <img src='images/git.png' width=40>
-            <img src='images/github.png' width=40>
-            <img src='images/vscode.webp' width=40>
-            <img src='images/conda.png' width=40>
-            <img src='images/docker.png' width=40>
+            <a href="https://jupyter.org/" target="_blank"><img src='images/jupyter.png' width=40></a>
+            <a href="https://www.mysql.com/" target="_blank"><img src='./images/mysql.png' width=70></a>
+            <a href="https://www.postgresql.org/" target="_blank"><img src='./images/postgresql.png' width=40></a>
+            <a href="https://www.eclipse.org/" target="_blank"><img src='images/eclipse.svg' width=40></a>
+            <a href="https://git-scm.com/" target="_blank"><img src='images/git.png' width=40></a>
+            <a href="https://github.com/" target="_blank"><img src='images/github.png' width=40></a>
+            <a href="https://code.visualstudio.com/" target="_blank"><img src='images/vscode.webp' width=40></a>
+            <a href="https://www.anaconda.com/" target="_blank"><img src='images/conda.png' width=40></a>
+            <a href="https://www.docker.com/" target="_blank"><img src='images/docker.png' width=40></a>
         </td>
     </tr>
     <tr>
         <td><i>operating systems</i></td>
         <td>
-            <img src='./images/windows.png' width=35>
-            <img src='./images/linux.png' width=35>
-            <img src='images/ubuntu.png' width=40>
+            <a href="https://www.microsoft.com/windows" target="_blank"><img src='./images/windows.png' width=35></a>
+            <a href="https://www.linux.org/" target="_blank"><img src='./images/linux.png' width=35></a>
+            <a href="https://ubuntu.com/" target="_blank"><img src='images/ubuntu.png' width=40></a>
         </td>
     </tr>
     <tr>
         <td><i>packages & softwares</i></td>
         <td>
-            <img src='images/tidyverse.png' width=30>
-            <img src="images/numpy.png" width=70>
-            <img src='./images/pandas.png' width=70>
-            <img src='./images/sklearn.png' width=60>
-            <img src='./images/statsmodels-logo-v2.svg' width=40>
-            <img src="images/tensorflow.svg" width=100>
-            <img src="images/networkx.svg" width=100>
-            <!-- <br> -->
-            <img src="images/matplotlib.svg" width=100>
-            <img src='./images/plotly.png' width=90>
-            <img src='./images/seaborn.png' width=70>
-            <img src="images/gephi.png" width=70>
-            <img src="images/tableau.png" width=100>
+            <a href="https://www.tidyverse.org/" target="_blank"><img src='images/tidyverse.png' width=30></a>
+            <a href="https://numpy.org/" target="_blank"><img src="images/numpy.png" width=70></a>
+            <a href="https://pandas.pydata.org/" target="_blank"><img src='./images/pandas.png' width=70></a>
+            <a href="https://scikit-learn.org/" target="_blank"><img src='./images/sklearn.png' width=60></a>
+            <a href="https://www.statsmodels.org/" target="_blank"><img src='./images/statsmodels-logo-v2.svg' width=40></a>
+            <a href="https://www.tensorflow.org/" target="_blank"><img src="images/tensorflow.svg" width=100></a>
+            <a href="https://networkx.github.io/" target="_blank"><img src="images/networkx.svg" width=100></a>
+            <br>
+            <a href="https://matplotlib.org/" target="_blank"><img src="images/matplotlib.svg" width=100></a>
+            <a href="https://plotly.com/" target="_blank"><img src='./images/plotly.png' width=90></a>
+            <a href="https://seaborn.pydata.org/" target="_blank"><img src='./images/seaborn.png' width=70></a>
+            <a href="https://gephi.org/" target="_blank"><img src="images/gephi.png" width=70></a>
+            <a href="https://www.tableau.com/" target="_blank"><img src="images/tableau.png" width=100></a>
         </td>
     </tr>
     <tr>
         <td><i>bioinformatics tools</i></td>
         <td>
-            <img src='images/biocondutor.png' width=120 height=40>
-            <img src="images/biopython.png" width=60>
-            <img src="images/nibabel-logo.svg" width=40>
-            <!-- <img src="images/hex-tidyverse.png" width=30> -->
-            <!-- <img src="images/pymol.png" width=40> -->
-            <img src="images/cytoscape.svg" width=40>
-            <img src='images/pymol.png' width=40>
-            <img src='images/chimeraX.svg' width=40>
-            <img src='images/gromacs.gif' width=25>
+            <a href="https://www.bioconductor.org/" target="_blank"><img src='images/biocondutor.png' width=120 height=40></a>
+            <a href="https://biopython.org/" target="_blank"><img src="images/biopython.png" width=60></a>
+            <a href="https://nipy.org/nibabel/" target="_blank"><img src="images/nibabel-logo.svg" width=40></a>
+            <a href="https://cytoscape.org/" target="_blank"><img src="images/cytoscape.svg" width=40></a>
+            <a href="https://pymol.org/2/" target="_blank"><img src='images/pymol.png' width=40></a>
+            <a href="https://www.rbvi.ucsf.edu/chimerax/" target="_blank"><img src='images/chimeraX.svg' width=40></a>
+            <a href="http://www.gromacs.org/" target="_blank"><img src='images/gromacs.gif' width=25></a>
         </td>
     </tr>
 </table>
