@@ -15,7 +15,7 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 ### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
 
-<p align='center'> 
+<p align='left'> 
     <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
         <img src='./images/linkedin.png' width=30 />
     </a>   
@@ -37,6 +37,8 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 </details>
 
 ### <img src="images/programming.png" width=30 height=30> languages & tools 
+
+<div align="center">
 <table>
     <tr>
         <td><i>languages</i></td>
@@ -104,7 +106,7 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
         </td>
     </tr>
 </table>
-
+</div>
   
     
 
