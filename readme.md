@@ -103,6 +103,9 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
     <p align='center'>
         <img src="images/pymol.png" width=40>
         <img src="images/cytoscape.svg" width=40>
+        <img src='images/pymol.png' width=40>
+        <img src='images/chimeraX.svg' width=40>
+        <img src='images/gromacs.gif' width=25>
     </p>
 <!-- bioconductor packages -->
 </div>
