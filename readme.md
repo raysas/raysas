@@ -39,19 +39,46 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 </p>
 <!-- figma, matlab, docker -->
 
+<div>
+    <p align='center'>
+        <img src="images/python.png" width=40>
+        <img src='images/R.png' width=50>
+        <img src='images/bash.webp' width=40>
+        <img src='images/java.png' width=40>
+        <img src="https://skillicons.dev/icons?i=html,css" />
+        <img src='images/markdown.webp' width=50>
+        <img src='images/latex.svg' width=50>
+    </p>
+    <p align='center'>
+        <img src='./images/windows.png' width=35>
+        <img src='./images/linux.png' width=35>
+        <img src='images/ubuntu.png' width=40>
+        <img src='images/git.png' width=40>
+        <img src='images/github.png' width=40>
+    </p>
+<!-- bioconductor packages -->
+</div>
+
 ### Packages 
 
 <div>
     <p align='center'>
-        <img src="images/tensorflow.svg" width=130 >
-        <img src="images/matplotlib.svg" width=100>
         <img src="images/numpy.png" width=70>
-        <img src="images/networkx.svg" width=140>
+        <img src='./images/pandas.png' width=70>
+        <img src='./images/sklearn.png' width=60>
+        <img src='./images/statsmodels-logo-v2.svg' width=40>
+        <img src="images/tensorflow.svg" width=100 >
+        <img src="images/networkx.svg" width=100>
         <!-- <img src="images/hex-tidyverse.png" width=30> -->
     </p>
     <p align='center'>
-        <img src="images/gephi.png" width=40>
+        <img src="images/matplotlib.svg" width=100>
+        <img src='./images/plotly.png' width=90>
+        <img src='./images/seaborn.png' width=70>
+        <img src="images/gephi.png" width=70>
         <img src="images/tableau.png" width=100>
+        <!-- <img src="images/gephi.png" width=70>
+        <img src="images/tableau.png" width=100> -->
     </p>
 <!-- bioconductor packages -->
 </div>
