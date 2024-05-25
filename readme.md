@@ -12,29 +12,7 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 <img src='./images/data.png' width=25> Performing data preprocessing & analysis on biological data files, mainly ___NGS___  
 <img src='./images/sc.png' width=25 height=25> Eager to learn more about different omics, particularly ___single-cell transcriptomics___  
 
-### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
-
-<p align='left'> 
-    <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
-        <img src='./images/linkedin.png' width=30 />
-    </a>   
-    <a href="https://www.instagram.com/rayanewithane/">
-        <img src='./images/instagram.png' width=30  />
-    </a>
-    <a href="https://x.com/rayanewithane">
-        <img src='./images/X.png' width=30 />
-    </a>
-</p> 
-
-<!-- <img src='./images/icons8-gmail-48.png' width=40>   -->
-
-<details><summary><i> <img src='./images/icons8-gmail-48.png' width=20 height=15> e-mail me on:</i></summary>  
-    <ul>
-        <li><a href="mailto:rayane.s.adam@gmail.com">rayane.s.adam@gmail.com</a></li>
-        <li><a href="mailto:rayane.adam@lau.edu">rayane.adam@lau.edu</a></li>
-    </ul>
-</details>
 
 ### <img src="images/programming.png" width=30 height=30> languages & tools 
 
@@ -109,7 +87,29 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 </div>
   
     
+### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
+
+<p align='left'> 
+    <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
+        <img src='./images/linkedin.png' width=30 />
+    </a>   
+    <a href="https://www.instagram.com/rayanewithane/">
+        <img src='./images/instagram.png' width=30  />
+    </a>
+    <a href="https://x.com/rayanewithane">
+        <img src='./images/X.png' width=30 />
+    </a>
+</p> 
+
+<!-- <img src='./images/icons8-gmail-48.png' width=40>   -->
+
+<details><summary><i> <img src='./images/icons8-gmail-48.png' width=20 height=15> e-mail me on:</i></summary>  
+    <ul>
+        <li><a href="mailto:rayane.s.adam@gmail.com">rayane.s.adam@gmail.com</a></li>
+        <li><a href="mailto:rayane.adam@lau.edu">rayane.adam@lau.edu</a></li>
+    </ul>
+</details>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=raysas&theme=rising-sun" alt="GitHub Streak"> 
