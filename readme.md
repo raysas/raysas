@@ -15,7 +15,7 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 ### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
 
-<p align='center'>    
+<p>    
     <a href="https://www.instagram.com/rayanewithane/">
         <img src='./images/instagram.png' width=40  />
     </a>
@@ -28,8 +28,9 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 * [X] rayane.s.adam@gmail.com  
 * [X] rayane.adam@lau.edu
 
-## <img src="images/programming.png" width=30 height=30> Languages and Tools
+## <img src="images/programming.png" width=30 height=30> Skills 
 
+### Languages & tools
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,r,bash,java,html,css,markdown,latex" />
 </p>
@@ -38,7 +39,7 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 </p>
 <!-- figma, matlab, docker -->
 
-## <img src="images/bioinformatics.png" width=30 height=30> Packages and Softwares
+### Packages 
 
 <div>
     <p align='center'>
@@ -49,12 +50,23 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
         <!-- <img src="images/hex-tidyverse.png" width=30> -->
     </p>
     <p align='center'>
-        <img src="images/biopython.png" width=60>
-        <img src="images/nibabel-logo.svg" width=40>
-        <img src="images/pymol.png" width=40>
-        <img src="images/cytoscape.svg" width=40>
         <img src="images/gephi.png" width=40>
         <img src="images/tableau.png" width=100>
+    </p>
+<!-- bioconductor packages -->
+</div>
+
+### <img src="images/bioinformatics.png" width=30 height=30> Bioinformatics packages and tools
+
+<div>
+    <p align='center'>
+        <img src="images/biopython.png" width=60>
+        <img src="images/nibabel-logo.svg" width=40>
+        <!-- <img src="images/hex-tidyverse.png" width=30> -->
+    </p>
+    <p align='center'>
+        <img src="images/pymol.png" width=40>
+        <img src="images/cytoscape.svg" width=40>
     </p>
 <!-- bioconductor packages -->
 </div>
