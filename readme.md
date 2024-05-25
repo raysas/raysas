@@ -15,18 +15,26 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 ### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
 
-<p>    
-    <a href="https://www.instagram.com/rayanewithane/">
-        <img src='./images/instagram.png' width=40  />
-    </a>
+<p align='center'> 
     <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
-        <img src='./images/linkedin.png' width=40 />
+        <img src='./images/linkedin.png' width=30 />
+    </a>   
+    <a href="https://www.instagram.com/rayanewithane/">
+        <img src='./images/instagram.png' width=30  />
+    </a>
+    <a href="https://x.com/rayanewithane">
+        <img src='./images/X.png' width=30 />
     </a>
 </p> 
 
-<img src='./images/icons8-gmail-48.png' width=25> e-mail me on:  
-* [X] rayane.s.adam@gmail.com  
-* [X] rayane.adam@lau.edu
+<!-- <img src='./images/icons8-gmail-48.png' width=40>   -->
+
+<details><summary><i> <img src='./images/icons8-gmail-48.png' width=20 height=15> e-mail me on:</i></summary>  
+    <ul>
+        <li><a href="mailto:rayane.s.adam@gmail.com">rayane.s.adam@gmail.com</a></li>
+        <li><a href="mailto:rayane.adam@lau.edu">rayane.adam@lau.edu</a></li>
+    </ul>
+</details>
 
 ### <img src="images/programming.png" width=30 height=30> languages & tools 
 <table>
