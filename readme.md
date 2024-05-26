@@ -93,12 +93,12 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
 <p align='left'> 
     <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
         <img src='./images/linkedin.png' width=30 />
-    </a>   
-    <a href="https://www.instagram.com/rayanewithane/">
-        <img src='./images/instagram.png' width=30  />
-    </a>
+    </a>  
     <a href="https://x.com/rayanewithane">
         <img src='./images/X.png' width=30 />
+    </a>
+    <a href="https://www.instagram.com/rayanewithane/">
+        <img src='./images/instagram.png' width=30  />
     </a>
 </p> 
 
