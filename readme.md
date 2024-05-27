@@ -1,3 +1,5 @@
+<img src="images/band.png" width=100% height=5>
+
 # <p align="center"> Hello! I'm rayane ✌️
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=raysas.raysas&left_color=green&right_color=red) -->
@@ -111,9 +113,18 @@ I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in
     </ul>
 </details>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=raysas&theme=rising-sun" alt="GitHub Streak"> 
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://streak-stats.demolab.com?user=raysas&theme=tokyonight" alt="GitHub Streak">
+        </td>
+        <td align="center">
+            <a href="https://git.io/awesome-stats-card">
+                <img src="https://awesome-github-stats.azurewebsites.net/user-stats/raysas?cardType=level&theme=tokyonight&preferLogin=true" alt="My Awesome Stats">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <!-- <p align='left'>
     <i>Reach out and connect with me on:</i>
