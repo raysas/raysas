@@ -13,9 +13,10 @@
 
 <div>
 
-I am a bioinformatics graduate from [LAU](https://www.lau.edu.lb/), intrested in applying computational methods on biological data. 
+I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited about applying computational methods on biological data. 
 
-<img src='./images/icons8-neural-network-100.png' width=25 height=25> Currently learning ***Network Science*** and ***Deep Learning***   
+<!-- <img src='' widt=> -->
+<img src='./images/icons8-neural-network-100.png' width=25 height=25> Interested in ***Network Science*** and ***Deep Learning***   
 <img src='./images/icons8-gene-64.png' width=25 height=25> Volunteering in a ***Microbial Genomics dry-lab***  
 <img src='./images/data.png' width=25> Performing data preprocessing & analysis on biological data files, mainly ___NGS___  
 <img src='./images/sc.png' width=25 height=25> Eager to learn more about different omics, particularly ___single-cell transcriptomics___  
