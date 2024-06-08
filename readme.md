@@ -15,7 +15,7 @@
 
 I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited about applying computational methods on biological data. 
 
-<img src='./images/books.png' width=20>Currently learning  _Molecular dynamics_ and _Nextflow_  
+<img src='./images/books.png' width=20> Currently learning  _Molecular dynamics_ and _Nextflow_  
 <img src='./images/icons8-neural-network-100.png' width=25 height=25> Interested in ***Network Science*** and ***Deep Learning***   
 <img src='./images/icons8-gene-64.png' width=25 height=25> Volunteering in a ***Microbial Genomics dry-lab***  
 <img src='./images/data.png' width=25> Performing data preprocessing & analysis on biological data files, mainly ___NGS___  
