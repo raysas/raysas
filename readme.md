@@ -13,7 +13,7 @@ I have a B.Sc. in Bioinformatics from [Lebanese American University](https://www
 - Bioinformatics researcher for more than a year in a *Microbial Genomics dry-lab*  _@LAU_
 - Experienced in data preprocessing & analysis on biological data files, mainly handling sequencing data  
 - Interested in *Network Science* and *Deep Learning*  
-- Eager to learn more about topics in: _systems biology_, _dynamic systems model_,_computational neurogenomics_, _single-cell transcriptomics_
+- Eager to learn more about topics in: _systems biology_, _dynamic systems_ ,_computational neurogenomics_, _single-cell transcriptomics_
 
 
 <!-- got it from https://img.icons8.com/?size=100&id=12383&format=png&color=000000 -->
