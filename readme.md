@@ -4,22 +4,27 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=raysas.raysas&left_color=green&right_color=red) -->
 
-## <img src="images/bioinformatics.png" width=30 height=30> About Me
+##  About Me <img src="images/bioinformatics.png" width=20 height=20>
 
+I'm a Bioinformatics M1 student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), Evry, France.   
+I have a B.Sc. in Bioinformatics from [Lebanese American University](https://www.lau.edu.lb/).  
+
+- Currently learning _NGS data analysis_ and _nextflow_  
+- Bioinformatics researcher for more than a year in a *Microbial Genomics dry-lab*  _@LAU_
+- Experienced in data preprocessing & analysis on biological data files, mainly handling sequencing data  
+- Interested in *Network Science* and *Deep Learning*  
+- Eager to learn more about topics in: _systems biology_, _dynamic systems model_,_computational neurogenomics_, _single-cell transcriptomics_
 
 
 <!-- got it from https://img.icons8.com/?size=100&id=12383&format=png&color=000000 -->
 <div style="display: flex; align-items: start;">
-
 <div>
 
-I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited about applying computational methods on biological data. 
-
-<img src='./images/books.png' width=20> Currently learning  _Molecular dynamics_ and _Nextflow_  
+<!-- <img src='./images/books.png' width=20> Currently learning  _Molecular dynamics_ and _Nextflow_  
 <img src='./images/icons8-neural-network-100.png' width=25 height=25> Interested in ***Network Science*** and ***Deep Learning***   
 <img src='./images/icons8-gene-64.png' width=25 height=25> Volunteering in a ***Microbial Genomics dry-lab***  
 <img src='./images/data.png' width=25> Performing data preprocessing & analysis on biological data files, mainly ___NGS___  
-<img src='./images/sc.png' width=25 height=25> Eager to learn more about different omics, particularly ___single-cell transcriptomics___  
+<img src='./images/sc.png' width=25 height=25> Eager to learn more about different omics, particularly ___single-cell transcriptomics___   -->
 
 </div>
 <!-- 
@@ -31,7 +36,7 @@ I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited ab
 
 
 
-### <img src="images/programming.png" width=30 height=30> languages & tools 
+### languages & tools <img src="images/programming.png" width=20 height=20> 
 
 <div align="center">
 <table>
@@ -107,7 +112,7 @@ I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited ab
 ### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
 
 
-<p align='left'> 
+<p align='center'> 
     <a href="https://www.linkedin.com/in/rayane-adam-a3ba9a224/">
         <img src='./images/linkedin.png' width=30 />
     </a>  
@@ -117,11 +122,14 @@ I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited ab
     <a href="https://www.instagram.com/rayanewithane/">
         <img src='./images/instagram.png' width=30  />
     </a>
+    <!-- gmail -->
+    <a href="mailto:rayane.s.adam@gmail.com">
+        <img src='./images/icons8-gmail-48.png' width=30 />
+     <!-- adding caption next to it  -->
+    </a>
 </p> 
 
-<!-- <img src='./images/icons8-gmail-48.png' width=40>   -->
-
-<details><summary><i> <img src='./images/icons8-gmail-48.png' width=20 height=15> e-mail me on:</i></summary>  
+<!-- <details><summary><i> <img src='./images/icons8-gmail-48.png' width=20 height=15> e-mail me on:</i></summary>  
     <ul>
         <li><a href="mailto:rayane.s.adam@gmail.com">rayane.s.adam@gmail.com</a></li>
         <li><a href="mailto:rayane.adam@lau.edu">rayane.adam@lau.edu</a></li>
@@ -139,7 +147,7 @@ I have a B.Sc. in Bioinformatics from [LAU](https://www.lau.edu.lb/), excited ab
             </a>
         </td>
     </tr>
-</table>
+</table> -->
 
 <!-- <p align='left'>
     <i>Reach out and connect with me on:</i>
