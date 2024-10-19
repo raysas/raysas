@@ -109,7 +109,7 @@ I have a B.Sc. in Bioinformatics from [Lebanese American University](https://www
 </div>
   
     
-### <img src="images/icons8-paper-plane-48.png" width=30 height=30> Connect with me
+### Connect with me <img src="images/icons8-paper-plane-48.png" width=25 height=25> 
 
 
 <p align='center'> 
