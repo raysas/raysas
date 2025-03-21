@@ -1,0 +1,33 @@
+name: Update ISO Tiny Full Year Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate ISO Tiny Full Year Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_year: full
+          plugin_calendar_limit: 12
+          plugin_calendar_metric: iso
+          plugin_calendar_colors: dark
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add metrics.svg
+          git commit -m "Update ISO Tiny Full Year Calendar metric"
+          git push
