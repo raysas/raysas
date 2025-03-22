@@ -4,7 +4,7 @@
 <a href="https://github.com/raysas?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=2f6d94&labelColor=1283a3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/raysas?tab=repositories">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=8e1247&labelColor=a51554&style=for-the-badge&logo=repository&label=my projects&logoColor=white"/></a>
+    <img alt="view" title="viewers count" src="https://img.shields.io/badge/Projects-_?style=for-the-badge&logo=Github&labelColor=8e1247&color=a51554"/></a>
 </p>
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
