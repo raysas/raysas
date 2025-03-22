@@ -58,6 +58,5 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 <p>
-<img src='https://github.com/raysas/markdown_test/blob/main/metrics.classic.svg' width=50%>
-<img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=50%>
+<img src='https://github.com/raysas/markdown_test/blob/main/metrics.classic.svg' width=45%><img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=45%>
 </p>
