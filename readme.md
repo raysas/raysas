@@ -9,7 +9,7 @@
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
     <img src=./icons/discord.png height=25>
-    <a href='emailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
+    <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
 </p>
 
