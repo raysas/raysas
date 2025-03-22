@@ -1,5 +1,3 @@
-# <p> I'm Rayane </p>
-
 ## <p align='center'> i like coding and i like biology. i also like math : ) </p>
 
 <p align='center'>
@@ -19,9 +17,8 @@ Im a Computational Bioloy student at Université Paris-Saclay, France.
 I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 * I love math drawings and graph structures
-* Tryin to learn nextflow and julia
-* Previosuly worked on _gene interactions modelling_ and _pangenomic networks_
-* Building computational _packages, models & pipelines_ for biological data
+* Trying to learn nextflow and julia
+* Building computational _packages, models & pipelines_ for biological data (NGS mainly)
 
 <!-- I like learning new things and discussing ideas with others: -->
 
@@ -60,7 +57,7 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 
-
+<p>
 <img src='https://github.com/raysas/markdown_test/blob/main/metrics.classic.svg' width=50%>
 <img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=50%>
-
+</p>
