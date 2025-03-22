@@ -8,16 +8,15 @@
 </p>
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
-    <a href='emailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
     <img src=./icons/discord.png height=25>
+    <a href='emailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
 </p>
 
 Im a Computational Bioloy student at Université Paris-Saclay, France.   
 I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
-* Favorite coursework in: _multivariate statistics, machine learning, algorithms, modelling and simulation_
-* Bioinformatician for a year in a _Microbial Genomics lab @ LAU_
+* I like mat drawins and rap structures
 * Previosuly worked on _gene interactions modelling_ and _pangenomic networks_
 * Building computational _packages, models & pipelines_ for biological data
 
