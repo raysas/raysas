@@ -17,6 +17,7 @@ Im a Computational Bioloy student at Université Paris-Saclay, France.
 I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 * I love math drawings and graph structures
+* I like learning new things and making notes
 * Trying to learn nextflow and julia
 * Building computational _packages, models & pipelines_ for biological data (NGS mainly)
 
@@ -58,5 +59,5 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 <p>
-<img src='https://github.com/raysas/markdown_test/blob/main/metrics.classic.svg' height=250><img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' height=250>
+<img src='https://github.com/raysas/raysas/blob/main/metrics.classic.svg' height=230><img src='https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg' height=230>
 </p>
