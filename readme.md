@@ -1,5 +1,11 @@
-## i like coding and i like biology. i also like math : )
+## <p align='center'> i like coding and i like biology. i also like math : ) </p>
 
+<p align='center'>
+<a href="https://github.com/raysas?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=2f6d94&labelColor=1283a3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/raysas?tab=repositories">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=8e1247&labelColor=a51554&style=for-the-badge&logo=repository&label=my projects&logoColor=white"/></a>
+</p>
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
     <a href='emailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
@@ -10,20 +16,21 @@
 Im a Computational Bioloy student at Université Paris-Saclay, France.   
 I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
-* Favorite coursework in: multivariate statistics, machine learning, modelling and simulation
-* Worked on gene interactions modelling and pangenomic networks
-* Building computational packages, models & pipelines for biological data
+* Favorite coursework in: _multivariate statistics, machine learning, algorithms, modelling and simulation_
+* Bioinformatician for a year in a _Microbial Genomics lab @ LAU_
+* Previosuly worked on _gene interactions modelling_ and _pangenomic networks_
+* Building computational _packages, models & pipelines_ for biological data
 
-I like learning new things 
+<!-- I like learning new things and discussing ideas with others: -->
 
 **Computational topics:**  
- `mathematical modelling`, `network science`, `dynamical systems`, `statistical/machine learning`,  `deep learning`, `grap diffusion and learning`
+ `mathematical modelling`, `network science`, `dynamical systems`, `statistical/machine learning`,  `deep learning`, `graph convolutions`
 
 **Bioinformatics interests:**  
  `systems bioloy`, `omics data integration`, `gene regulatory network inference`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
 
 **Technical expertise:**  
- `Python coding`, `Bash pipelines`, `R data analysis`, `Model training and evaluation`
+ `Python coding`, `Bash pipelines`, `R data analysis`
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791) 
 ![Nextflow](https://img.shields.io/badge/Nextflow-white?logo=nextflow&logoColor=2C3E50) 
@@ -53,5 +60,6 @@ I like learning new things
 
 
 
+<img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=100%>
 
 <!-- ![test-workflow](https://raw.gi -->
