@@ -1,3 +1,5 @@
+# <p> I'm Rayane </p>
+
 ## <p align='center'> i like coding and i like biology. i also like math : ) </p>
 
 <p align='center'>
@@ -59,7 +61,6 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 
+<img src='https://github.com/raysas/markdown_test/blob/main/metrics.classic.svg' width=50%>
+<img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=50%>
 
-<img src='https://github.com/raysas/markdown_test/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=40%>
-
-<!-- ![test-workflow](https://raw.gi -->
