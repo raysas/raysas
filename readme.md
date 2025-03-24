@@ -1,4 +1,4 @@
-### <p align='center'> i like coding and i like biology. i also like math : ) </p>
+### <p align='center'> i like coding and i like biology. i also like math :) </p>
 
 <p align='center'>
 <a href="https://github.com/raysas?tab=followers">
@@ -59,5 +59,5 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 <p>
-<img src='https://github.com/raysas/raysas/blob/main/metrics.classic.svg' height=230><img src='https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg' height=230>
+<img src='https://github.com/raysas/raysas/blob/main/metrics.classic.svg' width=44%><img src='https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=52%>
 </p>
