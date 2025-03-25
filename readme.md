@@ -1,5 +1,7 @@
 ### <p align='center'> i like coding and i like biology. i also like math :) </p>
 
+
+
 <p align='center'>
 <a href="https://github.com/raysas?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=2f6d94&labelColor=1283a3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -9,6 +11,7 @@
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
     <img src=./icons/discord.png height=25>
+<!--     <a href='vsco.co/rayane-adam'><img src=https://github.com/user-attachments/assets/6a53de59-139f-49a1-b6f5-4880764c96c1 width=25 height=25></a> -->
     <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
 </p>
@@ -58,8 +61,8 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
 
 <p>
-  <img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
-  <img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="38%" align='right'>
+  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
+  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="42%" align='right'>
 </p>
 
 
