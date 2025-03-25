@@ -57,8 +57,9 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 ![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=3F4F75) 
 
 
-
 <p>
-<img src='https://github.com/raysas/raysas/blob/main/metrics.classic.svg' width=44%>
-<img src='https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg' width=52%>
+  <img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
+  <img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="38%" align='right'>
 </p>
+
+
