@@ -1,4 +1,4 @@
-### <p align='center'> i like coding and i like biology. i also like math :) </p>
+### <p align='center'> i like coding and biology. i also like math :) </p>
 
 
 
@@ -16,29 +16,27 @@
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
 </p>
 
-Im a Computational Bioloy student at Université Paris-Saclay, France.   
+Im a Computational Biology student at Université Paris-Saclay, France.   
 I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
-* I love math drawings and graph structures
-* I like learning new things and making notes
 * Trying to learn nextflow and julia
-* Building computational _packages, models & pipelines_ for biological data (NGS mainly)
-
+* Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)
+* I like learning new things and taking notes
 <!-- I like learning new things and discussing ideas with others: -->
 
 **Computational topics:**  
- `mathematical modelling`, `network science`, `dynamical systems`, `statistical/machine learning`,  `deep learning`, `graph convolutions`
+`network science`, `statistical/machine learning`,  `deep learning`, `graph convolutions`, `mathematical modelling`, `dynamical systems`
 
 **Bioinformatics interests:**  
  `systems bioloy`, `omics data integration`, `gene regulatory network inference`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
 
-**Technical expertise:**  
- `Python coding`, `Bash pipelines`, `R data analysis`
+**Technical:**  
+ `Python packaging`, `Bash pipelines`, `R data analysis`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791) 
+<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791) 
 ![Nextflow](https://img.shields.io/badge/Nextflow-white?logo=nextflow&logoColor=2C3E50) 
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED) 
-![cloud](https://img.shields.io/badge/Cloud-white?logo=google-cloud&logoColor=4285F4)
+![cloud](https://img.shields.io/badge/Cloud-white?logo=google-cloud&logoColor=4285F4)-->
 ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3)
 ![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=008080)
@@ -46,7 +44,7 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 ![Conda](https://img.shields.io/badge/Conda-white?logo=anaconda&logoColor=44A833)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)
-![Mathematica](https://img.shields.io/badge/Mathematica-white?logo=wolfram-mathematica&logoColor=DD1100)   
+<!--![Mathematica](https://img.shields.io/badge/Mathematica-white?logo=wolfram-mathematica&logoColor=DD1100)   -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=E95420)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=FF6F00)
