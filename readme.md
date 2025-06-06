@@ -25,7 +25,7 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 <!-- I like learning new things and discussing ideas with others: -->
 
 **Computational topics:**  
-`network science`, `statistical/machine learning`,  `deep learning`, `graph convolutions`, `mathematical modelling`, `dynamical systems`
+`network science`, `statistical/machine learning`,  `deep learning`, `graph propagation`, `mathematical modelling`, `dynamical systems`
 
 **Bioinformatics interests:**  
  `systems bioloy`, `omics data integration`, `gene regulatory network inference`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
