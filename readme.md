@@ -10,52 +10,53 @@
 </p>
 <p align='center'>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
-    <img src=./icons/discord.png height=25>
-<!--     <a href='vsco.co/rayane-adam'><img src=https://github.com/user-attachments/assets/6a53de59-139f-49a1-b6f5-4880764c96c1 width=25 height=25></a> -->
+    <!-<img src=./icons/discord.png height=25> -->
+<!-    <a href='vsco.co/rayane-adam'><img src=https://github.com/user-attachments/assets/6a53de59-139f-49a1-b6f5-4880764c96c1 width=25 height=25></a> -->
     <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
 </p>
 
-Im a Computational Biology student at Université Paris-Saclay, France.   
-I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 
-* Trying to learn nextflow and julia
-* Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)
-* I like learning new things and taking notes
-<!-- I like learning new things and discussing ideas with others: -->
+🎓 Im a Computational Biology MSc student at Université Paris-Saclay     
+🎓 B.Sc. in Bioinformatics from Lebanese American University, class of '24 
+
+My main interests lie in building tools merging **multi-modal biological data** towards a systems level understanding of molecular processes on human traits and diseases
+
+$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*
+$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)
+$\rightarrow$ I like learning new things and taking notes
 
 **Computational topics:**  
-`network science`, `statistical/machine learning`,  `deep learning`, `graph propagation`, `mathematical modelling`, `dynamical systems`
+`deep learning`, `statistical/machine learning`,  `network science`, `representation learning`, `explainable AI`
 
 **Bioinformatics interests:**  
- `systems bioloy`, `omics data integration`, `gene regulatory network inference`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
+`systems biology`, `omics data integration`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
 
 **Technical:**  
- `Python packaging`, `Bash pipelines`, `R data analysis`
+ `python packaging`, `cmd pipelines`, `R data analysis`
 
-<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791) 
-![Nextflow](https://img.shields.io/badge/Nextflow-white?logo=nextflow&logoColor=2C3E50) 
-![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED) 
-![cloud](https://img.shields.io/badge/Cloud-white?logo=google-cloud&logoColor=4285F4)-->
+
 ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3)
-![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=008080)
-![Bash](https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25) 
+![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=E95420)
+![HPC slurm](https://img.shields.io/badge/HPC_slurm-white?logo=gnubash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)  
+![Nextflow](https://img.shields.io/badge/Nextflow-white?logo=nextflow&logoColor=2C3E50)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED)
 ![Conda](https://img.shields.io/badge/Conda-white?logo=anaconda&logoColor=44A833)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)
-<!--![Mathematica](https://img.shields.io/badge/Mathematica-white?logo=wolfram-mathematica&logoColor=DD1100)   -->
-![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=E95420)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=FF6F00)
-![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=FCC624)
-![BioPython](https://img.shields.io/badge/BioPython-white?logo=python&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791)
+![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn&logoColor=F7931E)
-![SymPy](https://img.shields.io/badge/SymPy-white?logo=sympy&logoColor=3B5526)
-![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243) 
-![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458) 
-![Tidyverse](https://img.shields.io/badge/Tidyverse-white?logo=r&logoColor=276DC3) 
-![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=3F4F75) 
+![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=FF6F00)
+![BioPython](https://img.shields.io/badge/BioPython-white?logo=python&logoColor=yellow)
+![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=3F4F75)
+![networkx](https://img.shields.io/badge/networkx-white?logo=python&logoColor=orange)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-white?logo=r&logoColor=276DC3)
+![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=008080)
 
 
 <p>
