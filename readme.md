@@ -20,8 +20,8 @@
 
 My main interests lie in building tools merging **multi-modal biological data** towards a systems level understanding of molecular processes on human traits and diseases
 
-$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*
-$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)
+$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*  
+$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)  
 $\rightarrow$ I like learning new things and taking notes
 
 **Computational topics:**  
@@ -61,5 +61,6 @@ $\rightarrow$ I like learning new things and taking notes
   <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
   <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="42%" align='right'>
 </p>
+
 
 
