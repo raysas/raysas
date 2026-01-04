@@ -20,8 +20,8 @@
 
 My main interests lie in building tools merging **multi-modal biological data** towards a systems level understanding of molecular processes on human traits and diseases
 
-$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*
-$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)
+$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*  
+$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)  
 $\rightarrow$ I like learning new things and taking notes
 
 **Computational topics:**  
