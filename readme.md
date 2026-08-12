@@ -1,4 +1,5 @@
-### <p align='center'> i like coding and biology. i also like math :) </p>
+### <p align='center'> Hi, I'm rayane 👋 </p>
+#### <p align='center'> i like coding and biology. i also like math :) </p>
 
 
 
@@ -9,29 +10,30 @@
     <img alt="view" title="viewers count" src="https://img.shields.io/badge/Projects-_?style=for-the-badge&logo=Github&labelColor=8e1247&color=a51554"/></a>
 </p>
 <p align='center'>
+    <a href='https://raysas.github.io/'><img src='images/link.png' width=25 height=25 alt='webportfolio'></a>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
-    <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a>
+    <!-- <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a> -->
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
+    <a href='mailto:rayane.s.adam@gmail.com'><img src=./images/gmail.png width=25 height=25></a>
 </p>
 
 
-🎓 Im a Computational Biology MSc student at Université Paris-Saclay     
+🎓 M.Sc. in Computational Biology at Université Paris-Saclay, class of '26     
 🎓 B.Sc. in Bioinformatics from Lebanese American University, class of '24 
 
-My main interests lie in building tools merging **multi-modal biological data** towards a systems level understanding of molecular processes on human traits and diseases
+My main interests lie in building tools merging **multi-modal biological data** towards a systems level understanding of molecular processes on human traits and diseases  
+$\rightarrow$ Trying to learn *bayesian stat* and *representation learning*  
+$\rightarrow$ Attempting to build computational _models & pipelines_ for omics  
 
-$\rightarrow$ Trying to learn *nextflow* and *graph representation learning*  
-$\rightarrow$ Attempting to build computational _packages, models & pipelines_ for biological data (NGS mainly)  
-$\rightarrow$ I like learning new things and taking notes
 
 **Computational topics:**  
-`deep learning`, `statistical/machine learning`,  `network science`, `representation learning`, `explainable AI`
+`deep learning`, `statistical learning`,  `network science`, `representation learning`, `explainable AI`
 
 **Bioinformatics interests:**  
-`systems biology`, `omics data integration`, `single-cell and spatial transcriptomics`, `epigenomics and neurogenomics`  
+`systems biology`, `omics data integration`, `single-cell and spatial omics`, `epigenomics and neurogenomics`  
 
 **Technical:**  
- `python packaging`, `cmd pipelines`, `R data analysis`
+`python packaging`, `pipelines`, `R statistical/bioinformatics analysis`
 
 
 ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB)
@@ -39,7 +41,7 @@ $\rightarrow$ I like learning new things and taking notes
 ![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=E95420)
 ![HPC slurm](https://img.shields.io/badge/HPC_slurm-white?logo=gnubash&logoColor=4EAA25)
-![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)  
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)
 ![Nextflow](https://img.shields.io/badge/Nextflow-white?logo=nextflow&logoColor=2C3E50)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED)
 ![Conda](https://img.shields.io/badge/Conda-white?logo=anaconda&logoColor=44A833)
@@ -61,5 +63,3 @@ $\rightarrow$ I like learning new things and taking notes
   <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
   <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="42%" align='right'>
 </p>
-
-
