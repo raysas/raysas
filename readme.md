@@ -64,6 +64,6 @@ $\rightarrow$ Attempting to build computational _models & pipelines_ for omics
 -->
 
 <p>
-  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
-  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="42%" align='right'>
+  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="44%">
+  <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.plugin.isocalendar.fullyear.svg" width="48%" align='right'>
 </p>
