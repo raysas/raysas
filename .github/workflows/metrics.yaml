@@ -24,7 +24,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
           # Programming languages
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
 
