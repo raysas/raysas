@@ -1,23 +1,27 @@
-### <p align='center'> Hi, I'm rayane 👋 </p>
+### <p align='center'> Hi, I'm rayane ✌️ </p>
 #### <p align='center'> i like coding and biology. i also like math :) </p>
 
 
 
-<p align='center'>
-<a href="https://github.com/raysas?tab=followers">
+<p align='center'> 
+<a href="https://github.com/raysas?tab=followers"> 
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raysas?color=2f6d94&labelColor=1283a3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/raysas?tab=repositories">
+<a href="https://github.com/raysas?tab=repositories"> 
     <img alt="view" title="viewers count" src="https://img.shields.io/badge/Projects-_?style=for-the-badge&logo=Github&labelColor=8e1247&color=a51554"/></a>
 </p>
-<p align='center'>
+
+<!--
+<p align='center'> 
     <a href='https://raysas.github.io/'><img src='images/link.png' width=25 height=25 alt='webportfolio'></a>
     <a href='https://www.linkedin.com/in/rayane-adam/'><img src='./icons/linkedin%20(1).png' width=25 height=25></a>
-    <!-- <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a> -->
+    <!-- <a href='mailto:rayane.s.adam@gmail.com'><img src=./icons/google.webp width=25 height=25></a> 
     <a href='https://instagram.com/rayanewithane'><img src=./icons/instagram-color.svg width=25 height=25></a>
     <a href='mailto:rayane.s.adam@gmail.com'><img src=./images/gmail.png width=25 height=25></a>
-</p>
+ </p> 
+ 
+ -->
 
-
+<!--
 🎓 M.Sc. in Computational Biology at Université Paris-Saclay, class of '26     
 🎓 B.Sc. in Bioinformatics from Lebanese American University, class of '24 
 
@@ -57,7 +61,7 @@ $\rightarrow$ Attempting to build computational _models & pipelines_ for omics
 ![networkx](https://img.shields.io/badge/networkx-white?logo=python&logoColor=orange)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-white?logo=r&logoColor=276DC3)
 ![LaTeX](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=008080)
-
+-->
 
 <p>
   <a href='https://github.com/raysas'><img src="https://github.com/raysas/raysas/blob/main/metrics.classic.svg" width="48%">
