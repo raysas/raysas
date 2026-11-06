@@ -31,9 +31,9 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
 
-          # Commit activity
-          plugin_followup: no
-          plugin_followup_sections: repositories, user
+          # # Commit activity
+          # plugin_followup: no
+          # plugin_followup_sections: repositories, user
 
           # General settings
           config_timezone: Europe/Zurich
